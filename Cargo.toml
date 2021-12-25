@@ -7,5 +7,5 @@ edition = "2021"
 
 [dependencies]
 structopt = "*"
-serde = { version = "*", features = ["derive"] }
 anyhow = "*"
+shrinkwraprs = "0.3.0"

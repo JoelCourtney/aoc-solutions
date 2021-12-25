@@ -34,6 +34,10 @@ fn run(opt: Opt) -> Result<()> {
         y2021::d1::Day1,
         y2021::d2::Day2,
         y2021::d3::Day3,
+        y2021::d4::Day4,
+        y2021::d5::Day5,
+        y2021::d6::Day6,
+        y2021::d7::Day7,
     }
     Ok(())
 }
